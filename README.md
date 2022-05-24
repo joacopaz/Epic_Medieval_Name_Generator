@@ -4,10 +4,10 @@ Fun Node JS app that generates medieval nicknames based on common names and hist
 
 #### Examples:
 
-> Barbarossa Diane
-> Romanslayer Beverly
-> Sharon The Edifier
-> Catherine The Desired
-> Yellow Albert
-> George The Terrible
+> Barbarossa Diane  
+> Romanslayer Beverly  
+> Sharon The Edifier  
+> Catherine The Desired  
+> Yellow Albert  
+> George The Terrible  
 > Deed-doer Benjamin
