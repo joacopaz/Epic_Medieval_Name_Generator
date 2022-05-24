@@ -183,6 +183,7 @@ Alice
 Julia
 Judy
 Sophia
+Sophie
 Grace
 Denise
 Amber
