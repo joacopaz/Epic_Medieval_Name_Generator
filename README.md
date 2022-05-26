@@ -1,5 +1,7 @@
 # Epic Medieval Name Generator
 
+Website: [Name Generator](https://joacopaz.github.io/Epic_Medieval_Name_Generator/)
+
 Fun Node JS app that generates medieval nicknames based on common names and historical figures
 
 #### Examples:
